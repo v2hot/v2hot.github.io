@@ -1,16 +1,27 @@
 {
-  "fetchTime": 1638935406506,
+  "fetchTime": 1638942606625,
   "posts": [
+    {
+      "title": "JS 如何复制一个函数？",
+      "url": "/t/820839",
+      "author": "aikilan",
+      "node_url": "/go/programmer",
+      "node_name": "程序员",
+      "replies": 7,
+      "avatar_url": "https://cdn.v2ex.com/gravatar/4877b680fe44aba64b22c5c8bd136aca?s=48&d=retro",
+      "last_touched": "2021-12-08 13:45:23 +08:00",
+      "last_reply_by": "vision1900"
+    },
     {
       "title": "想问一个问题,如何优化一个老项目.",
       "url": "/t/820819",
       "author": "helee9199",
       "node_url": "/go/java",
       "node_name": "Java",
-      "replies": 6,
+      "replies": 15,
       "avatar_url": "https://cdn.v2ex.com/gravatar/5a82249defccd648ef6d961847c0480c?s=48&d=retro",
-      "last_touched": "2021-12-08 11:43:58 +08:00",
-      "last_reply_by": "murmur"
+      "last_touched": "2021-12-08 12:55:09 +08:00",
+      "last_reply_by": "potatowish"
     },
     {
       "title": "Oneplus 8T 刷机玩",
@@ -18,10 +29,10 @@
       "author": "weaponc",
       "node_url": "/go/android",
       "node_name": "Android",
-      "replies": 1,
+      "replies": 9,
       "avatar_url": "https://cdn.v2ex.com/avatar/7696/7d1e/320731_large.png?m=1636269670",
-      "last_touched": "2021-12-08 11:49:40 +08:00",
-      "last_reply_by": "mxalbert1996"
+      "last_touched": "2021-12-08 13:39:30 +08:00",
+      "last_reply_by": "flewsea"
     },
     {
       "title": "spring cloud 服务调用 问题排查 解决方法求教",
@@ -29,10 +40,10 @@
       "author": "woduzibue",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 10,
+      "replies": 12,
       "avatar_url": "https://cdn.v2ex.com/avatar/b553/5ed8/523033_large.png?m=1615627866",
-      "last_touched": "2021-12-08 11:44:53 +08:00",
-      "last_reply_by": "woduzibue"
+      "last_touched": "2021-12-08 12:05:32 +08:00",
+      "last_reply_by": "Saxton"
     },
     {
       "title": "求助， MongoDB 中查找如何做到完全匹配",
@@ -40,9 +51,9 @@
       "author": "Rkls",
       "node_url": "/go/mongodb",
       "node_name": "MongoDB",
-      "replies": 2,
+      "replies": 6,
       "avatar_url": "https://cdn.v2ex.com/gravatar/b52023bdffd5f41b1faf62e2e87c15ff?s=48&d=retro",
-      "last_touched": "2021-12-08 11:40:41 +08:00",
+      "last_touched": "2021-12-08 12:45:36 +08:00",
       "last_reply_by": "Rkls"
     },
     {
@@ -51,10 +62,10 @@
       "author": "wunonglin",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 27,
+      "replies": 33,
       "avatar_url": "https://cdn.v2ex.com/avatar/de30/859d/190701_large.png?m=1635138192",
-      "last_touched": "2021-12-08 11:46:00 +08:00",
-      "last_reply_by": "libook"
+      "last_touched": "2021-12-08 12:25:31 +08:00",
+      "last_reply_by": "avastms"
     },
     {
       "title": "新版火狐的土豪金主题有点帅啊",
@@ -73,10 +84,10 @@
       "author": "Features",
       "node_url": "/go/android",
       "node_name": "Android",
-      "replies": 13,
+      "replies": 14,
       "avatar_url": "https://cdn.v2ex.com/gravatar/03833e8c62b3feb7b1d819ed8e964467?s=48&d=retro",
-      "last_touched": "2021-12-08 11:32:09 +08:00",
-      "last_reply_by": "gtanyin"
+      "last_touched": "2021-12-08 12:34:25 +08:00",
+      "last_reply_by": "cairnechen"
     },
     {
       "title": "https 的网站怎么请求 http 的接口?",
@@ -84,10 +95,10 @@
       "author": "qwertyzzz",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 10,
+      "replies": 15,
       "avatar_url": "https://cdn.v2ex.com/avatar/4f84/ec16/237202_large.png?m=1638403791",
-      "last_touched": "2021-12-08 11:48:57 +08:00",
-      "last_reply_by": "joshuacavell"
+      "last_touched": "2021-12-08 13:02:44 +08:00",
+      "last_reply_by": "akira"
     },
     {
       "title": "使用 git，既要用「命令行」也要用「UI」",
@@ -95,10 +106,10 @@
       "author": "AndyAO",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 31,
+      "replies": 40,
       "avatar_url": "https://cdn.v2ex.com/avatar/b85a/cd99/512121_large.png?m=1638315611",
-      "last_touched": "2021-12-08 11:49:01 +08:00",
-      "last_reply_by": "deplivesb"
+      "last_touched": "2021-12-08 13:47:50 +08:00",
+      "last_reply_by": "darksword21"
     },
     {
       "title": "git CLI 设计太烂",
@@ -106,10 +117,10 @@
       "author": "AndyAO",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 48,
+      "replies": 52,
       "avatar_url": "https://cdn.v2ex.com/avatar/b85a/cd99/512121_large.png?m=1638315611",
-      "last_touched": "2021-12-08 11:42:29 +08:00",
-      "last_reply_by": "raptor"
+      "last_touched": "2021-12-08 13:14:36 +08:00",
+      "last_reply_by": "iyaozhen"
     },
     {
       "title": "MySQL 查询，能否做到当某字段为特定值时，该条件字段不起作用",
@@ -150,10 +161,10 @@
       "author": "lwgo",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 101,
+      "replies": 109,
       "avatar_url": "https://cdn.v2ex.com/gravatar/0246800a5757002ea378b5d4c131e08c?s=48&d=retro",
-      "last_touched": "2021-12-08 11:46:57 +08:00",
-      "last_reply_by": "unclemcz"
+      "last_touched": "2021-12-08 13:23:30 +08:00",
+      "last_reply_by": "ithinkseesee"
     },
     {
       "title": "接了个盘，这张表什么水平",
@@ -161,10 +172,10 @@
       "author": "suyuyu",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 109,
+      "replies": 112,
       "avatar_url": "https://cdn.v2ex.com/avatar/4710/9e92/275835_large.png?m=1638871367",
-      "last_touched": "2021-12-08 11:40:07 +08:00",
-      "last_reply_by": "zwgf"
+      "last_touched": "2021-12-08 12:32:24 +08:00",
+      "last_reply_by": "GaoYL"
     },
     {
       "title": "typora 收费了，有什么好的替代产品",
@@ -183,10 +194,10 @@
       "author": "yttsam",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 49,
+      "replies": 50,
       "avatar_url": "https://cdn.v2ex.com/avatar/65b3/6aa7/433064_large.png?m=1637918925",
-      "last_touched": "2021-12-08 10:59:01 +08:00",
-      "last_reply_by": "AprilNovember"
+      "last_touched": "2021-12-08 12:48:07 +08:00",
+      "last_reply_by": "raycool"
     },
     {
       "title": "80 后程序员前辈们现在都在干嘛",
@@ -194,10 +205,10 @@
       "author": "jiaming1992",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 51,
+      "replies": 61,
       "avatar_url": "https://cdn.v2ex.com/gravatar/e3e595e57e4735fe50a5afa6efc65580?s=48&d=retro",
-      "last_touched": "2021-12-08 11:19:39 +08:00",
-      "last_reply_by": "chiuan"
+      "last_touched": "2021-12-08 13:42:14 +08:00",
+      "last_reply_by": "nicebird"
     },
     {
       "title": "Python 异步有什么办法实现类似 Linux 的 tail -f 的功能吗？",
@@ -238,10 +249,10 @@
       "author": "regex",
       "node_url": "/go/browsers",
       "node_name": "浏览器",
-      "replies": 0,
+      "replies": 1,
       "avatar_url": "https://cdn.v2ex.com/avatar/7e62/49b5/87147_large.png?m=1608299838",
-      "last_touched": "2021-12-07 22:27:15 +08:00",
-      "last_reply_by": ""
+      "last_touched": "2021-12-08 12:47:16 +08:00",
+      "last_reply_by": "kidonng"
     },
     {
       "title": "在外搬砖的程序员们，周六周日会选择怎么放松？",
@@ -249,10 +260,10 @@
       "author": "Mrzhs",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 67,
+      "replies": 71,
       "avatar_url": "https://cdn.v2ex.com/avatar/3192/d946/348134_large.png?m=1638858421",
-      "last_touched": "2021-12-08 11:47:14 +08:00",
-      "last_reply_by": "LXGMAX"
+      "last_touched": "2021-12-08 12:44:32 +08:00",
+      "last_reply_by": "akira"
     },
     {
       "title": "win11 一周蓝屏 5 次什么水平？",
@@ -293,10 +304,10 @@
       "author": "yezheyu",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 2,
+      "replies": 3,
       "avatar_url": "https://cdn.v2ex.com/avatar/f338/e452/166159_large.png?m=1610062625",
-      "last_touched": "2021-12-07 19:52:32 +08:00",
-      "last_reply_by": "wangyu17455"
+      "last_touched": "2021-12-08 11:56:36 +08:00",
+      "last_reply_by": "liu1996"
     },
     {
       "title": "MySQL 大概率不会考虑 M1 MAX 芯片下的 Docker image 了吧",
@@ -425,10 +436,10 @@
       "author": "LnTrx",
       "node_url": "/go/aws",
       "node_name": "Amazon Web Services",
-      "replies": 24,
+      "replies": 26,
       "avatar_url": "https://cdn.v2ex.com/avatar/7b8b/71f7/450865_large.png?m=1590249670",
-      "last_touched": "2021-12-08 07:24:11 +08:00",
-      "last_reply_by": "loveminds"
+      "last_touched": "2021-12-08 13:30:11 +08:00",
+      "last_reply_by": "liulongquan"
     },
     {
       "title": "开发手机辅助, 如何检测区域内容变化?",
@@ -469,10 +480,10 @@
       "author": "monster1priest",
       "node_url": "/go/windows",
       "node_name": "Windows",
-      "replies": 6,
+      "replies": 7,
       "avatar_url": "https://cdn.v2ex.com/avatar/115e/8f70/543764_large.png?m=1619609608",
-      "last_touched": "2021-12-08 09:36:41 +08:00",
-      "last_reply_by": "Garphy"
+      "last_touched": "2021-12-08 13:06:22 +08:00",
+      "last_reply_by": "1235467"
     },
     {
       "title": "[脚本的魅力] 分享一点代码",
@@ -684,5 +695,5 @@
       "last_reply_by": "apifox"
     }
   ],
-  "version": 13
+  "version": 15
 }
