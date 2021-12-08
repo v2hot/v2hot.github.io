@@ -1,6 +1,17 @@
 {
-  "fetchTime": 1638946210679,
+  "fetchTime": 1638948227910,
   "posts": [
+    {
+      "title": "一个带冷启动优化的单机 Serverless 框架",
+      "url": "/t/820869",
+      "author": "ch2",
+      "node_url": "/go/create",
+      "node_name": "分享创造",
+      "replies": 0,
+      "avatar_url": "https://cdn.v2ex.com/avatar/bdfd/354e/481187_large.png?m=1638946314",
+      "last_touched": "2021-12-08 14:55:11 +08:00",
+      "last_reply_by": ""
+    },
     {
       "title": "做了一个从 NS 传输截屏和录制的 app Switshot",
       "url": "/t/820818",
@@ -563,5 +574,5 @@
       "last_reply_by": "alienjunx"
     }
   ],
-  "version": 16
+  "version": 17
 }
