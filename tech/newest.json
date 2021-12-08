@@ -1,16 +1,38 @@
 {
-  "fetchTime": 1638942606625,
+  "fetchTime": 1638946205949,
   "posts": [
+    {
+      "title": "FFmpeg -progress url Isn't working",
+      "url": "/t/820850",
+      "author": "HelloWorld556",
+      "node_url": "/go/ffmpeg",
+      "node_name": "FFmpeg",
+      "replies": 0,
+      "avatar_url": "https://cdn.v2ex.com/gravatar/cd870726144ef35978c51b4fc9ac3257?s=48&d=retro",
+      "last_touched": "2021-12-08 13:54:47 +08:00",
+      "last_reply_by": ""
+    },
+    {
+      "title": "通过消费 kafka 中的 mysql binlog 同步数据，有没有好的办法可以进行 join？ join 的两个表的变更不一定在一个时间窗口内",
+      "url": "/t/820855",
+      "author": "lllnever",
+      "node_url": "/go/programmer",
+      "node_name": "程序员",
+      "replies": 1,
+      "avatar_url": "https://cdn.v2ex.com/gravatar/0d688e01de15baaf20cc2f4048ff1165?s=48&d=retro",
+      "last_touched": "2021-12-08 14:12:06 +08:00",
+      "last_reply_by": "lllnever"
+    },
     {
       "title": "JS 如何复制一个函数？",
       "url": "/t/820839",
       "author": "aikilan",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 7,
+      "replies": 20,
       "avatar_url": "https://cdn.v2ex.com/gravatar/4877b680fe44aba64b22c5c8bd136aca?s=48&d=retro",
-      "last_touched": "2021-12-08 13:45:23 +08:00",
-      "last_reply_by": "vision1900"
+      "last_touched": "2021-12-08 14:31:14 +08:00",
+      "last_reply_by": "jones2000"
     },
     {
       "title": "想问一个问题,如何优化一个老项目.",
@@ -18,10 +40,10 @@
       "author": "helee9199",
       "node_url": "/go/java",
       "node_name": "Java",
-      "replies": 15,
+      "replies": 20,
       "avatar_url": "https://cdn.v2ex.com/gravatar/5a82249defccd648ef6d961847c0480c?s=48&d=retro",
-      "last_touched": "2021-12-08 12:55:09 +08:00",
-      "last_reply_by": "potatowish"
+      "last_touched": "2021-12-08 14:43:12 +08:00",
+      "last_reply_by": "myl0204"
     },
     {
       "title": "Oneplus 8T 刷机玩",
@@ -29,10 +51,10 @@
       "author": "weaponc",
       "node_url": "/go/android",
       "node_name": "Android",
-      "replies": 9,
+      "replies": 18,
       "avatar_url": "https://cdn.v2ex.com/avatar/7696/7d1e/320731_large.png?m=1636269670",
-      "last_touched": "2021-12-08 13:39:30 +08:00",
-      "last_reply_by": "flewsea"
+      "last_touched": "2021-12-08 14:43:46 +08:00",
+      "last_reply_by": "weaponc"
     },
     {
       "title": "spring cloud 服务调用 问题排查 解决方法求教",
@@ -40,10 +62,10 @@
       "author": "woduzibue",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 12,
+      "replies": 13,
       "avatar_url": "https://cdn.v2ex.com/avatar/b553/5ed8/523033_large.png?m=1615627866",
-      "last_touched": "2021-12-08 12:05:32 +08:00",
-      "last_reply_by": "Saxton"
+      "last_touched": "2021-12-08 14:25:03 +08:00",
+      "last_reply_by": "woduzibue"
     },
     {
       "title": "求助， MongoDB 中查找如何做到完全匹配",
@@ -62,10 +84,10 @@
       "author": "wunonglin",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 33,
+      "replies": 35,
       "avatar_url": "https://cdn.v2ex.com/avatar/de30/859d/190701_large.png?m=1635138192",
-      "last_touched": "2021-12-08 12:25:31 +08:00",
-      "last_reply_by": "avastms"
+      "last_touched": "2021-12-08 14:49:44 +08:00",
+      "last_reply_by": "SmallTeddy"
     },
     {
       "title": "新版火狐的土豪金主题有点帅啊",
@@ -84,10 +106,10 @@
       "author": "Features",
       "node_url": "/go/android",
       "node_name": "Android",
-      "replies": 14,
+      "replies": 18,
       "avatar_url": "https://cdn.v2ex.com/gravatar/03833e8c62b3feb7b1d819ed8e964467?s=48&d=retro",
-      "last_touched": "2021-12-08 12:34:25 +08:00",
-      "last_reply_by": "cairnechen"
+      "last_touched": "2021-12-08 14:40:20 +08:00",
+      "last_reply_by": "rrZ2C"
     },
     {
       "title": "https 的网站怎么请求 http 的接口?",
@@ -95,10 +117,10 @@
       "author": "qwertyzzz",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 15,
+      "replies": 16,
       "avatar_url": "https://cdn.v2ex.com/avatar/4f84/ec16/237202_large.png?m=1638403791",
-      "last_touched": "2021-12-08 13:02:44 +08:00",
-      "last_reply_by": "akira"
+      "last_touched": "2021-12-08 14:16:09 +08:00",
+      "last_reply_by": "loveminds"
     },
     {
       "title": "使用 git，既要用「命令行」也要用「UI」",
@@ -106,10 +128,10 @@
       "author": "AndyAO",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 40,
+      "replies": 43,
       "avatar_url": "https://cdn.v2ex.com/avatar/b85a/cd99/512121_large.png?m=1638315611",
-      "last_touched": "2021-12-08 13:47:50 +08:00",
-      "last_reply_by": "darksword21"
+      "last_touched": "2021-12-08 14:28:44 +08:00",
+      "last_reply_by": "endoffight"
     },
     {
       "title": "git CLI 设计太烂",
@@ -117,10 +139,10 @@
       "author": "AndyAO",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 52,
+      "replies": 54,
       "avatar_url": "https://cdn.v2ex.com/avatar/b85a/cd99/512121_large.png?m=1638315611",
-      "last_touched": "2021-12-08 13:14:36 +08:00",
-      "last_reply_by": "iyaozhen"
+      "last_touched": "2021-12-08 14:17:14 +08:00",
+      "last_reply_by": "lin07hui"
     },
     {
       "title": "MySQL 查询，能否做到当某字段为特定值时，该条件字段不起作用",
@@ -128,10 +150,10 @@
       "author": "lixyz",
       "node_url": "/go/mysql",
       "node_name": "MySQL",
-      "replies": 7,
+      "replies": 8,
       "avatar_url": "https://cdn.v2ex.com/avatar/f8d9/e12f/88942_large.png?m=1419823074",
-      "last_touched": "2021-12-08 11:45:10 +08:00",
-      "last_reply_by": "raptor"
+      "last_touched": "2021-12-08 14:07:50 +08:00",
+      "last_reply_by": "Tenlearn"
     },
     {
       "title": "关于变量从一个命名规则转换到另一个后，采取不同的标准大家怎么看？",
@@ -161,10 +183,10 @@
       "author": "lwgo",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 109,
+      "replies": 112,
       "avatar_url": "https://cdn.v2ex.com/gravatar/0246800a5757002ea378b5d4c131e08c?s=48&d=retro",
-      "last_touched": "2021-12-08 13:23:30 +08:00",
-      "last_reply_by": "ithinkseesee"
+      "last_touched": "2021-12-08 14:00:38 +08:00",
+      "last_reply_by": "supercai"
     },
     {
       "title": "接了个盘，这张表什么水平",
@@ -172,10 +194,10 @@
       "author": "suyuyu",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 112,
+      "replies": 114,
       "avatar_url": "https://cdn.v2ex.com/avatar/4710/9e92/275835_large.png?m=1638871367",
-      "last_touched": "2021-12-08 12:32:24 +08:00",
-      "last_reply_by": "GaoYL"
+      "last_touched": "2021-12-08 14:48:29 +08:00",
+      "last_reply_by": "bluekz"
     },
     {
       "title": "typora 收费了，有什么好的替代产品",
@@ -205,10 +227,10 @@
       "author": "jiaming1992",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 61,
+      "replies": 63,
       "avatar_url": "https://cdn.v2ex.com/gravatar/e3e595e57e4735fe50a5afa6efc65580?s=48&d=retro",
-      "last_touched": "2021-12-08 13:42:14 +08:00",
-      "last_reply_by": "nicebird"
+      "last_touched": "2021-12-08 14:37:32 +08:00",
+      "last_reply_by": "zealinux"
     },
     {
       "title": "Python 异步有什么办法实现类似 Linux 的 tail -f 的功能吗？",
@@ -260,10 +282,10 @@
       "author": "Mrzhs",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 71,
+      "replies": 73,
       "avatar_url": "https://cdn.v2ex.com/avatar/3192/d946/348134_large.png?m=1638858421",
-      "last_touched": "2021-12-08 12:44:32 +08:00",
-      "last_reply_by": "akira"
+      "last_touched": "2021-12-08 14:27:06 +08:00",
+      "last_reply_by": "froz"
     },
     {
       "title": "win11 一周蓝屏 5 次什么水平？",
@@ -271,10 +293,10 @@
       "author": "Features",
       "node_url": "/go/windows",
       "node_name": "Windows",
-      "replies": 96,
+      "replies": 97,
       "avatar_url": "https://cdn.v2ex.com/gravatar/03833e8c62b3feb7b1d819ed8e964467?s=48&d=retro",
-      "last_touched": "2021-12-08 11:48:52 +08:00",
-      "last_reply_by": "HarveyLiu"
+      "last_touched": "2021-12-08 14:21:06 +08:00",
+      "last_reply_by": "vanton"
     },
     {
       "title": "mac 上 vscode 虚拟内存问题",
@@ -359,10 +381,10 @@
       "author": "auto",
       "node_url": "/go/java",
       "node_name": "Java",
-      "replies": 8,
+      "replies": 11,
       "avatar_url": "https://cdn.v2ex.com/gravatar/01c91c7e93324a9fff42c61bc0c6b3ce?s=48&d=retro",
-      "last_touched": "2021-12-08 00:09:42 +08:00",
-      "last_reply_by": "securityCoding"
+      "last_touched": "2021-12-08 14:47:37 +08:00",
+      "last_reply_by": "ouyc"
     },
     {
       "title": "苹果的 rosetta 限制是基于技术还是商业上的考量?",
@@ -695,5 +717,5 @@
       "last_reply_by": "apifox"
     }
   ],
-  "version": 15
+  "version": 16
 }

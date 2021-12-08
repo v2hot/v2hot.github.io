@@ -1,5 +1,5 @@
 {
-  "fetchTime": 1638942611373,
+  "fetchTime": 1638946210679,
   "posts": [
     {
       "title": "做了一个从 NS 传输截屏和录制的 app Switshot",
@@ -326,10 +326,10 @@
       "author": "huage2580",
       "node_url": "/go/create",
       "node_name": "分享创造",
-      "replies": 221,
+      "replies": 222,
       "avatar_url": "https://cdn.v2ex.com/avatar/29d9/5ef3/279160_large.png?m=1637143828",
-      "last_touched": "2021-12-08 11:43:36 +08:00",
-      "last_reply_by": "itgoyo"
+      "last_touched": "2021-12-08 14:40:01 +08:00",
+      "last_reply_by": "fanfpy"
     },
     {
       "title": "准备做一个宠物社区类 App，目前有一些构想，寻找有意向的运营或开发同学参与或者交流交流~",
@@ -563,5 +563,5 @@
       "last_reply_by": "alienjunx"
     }
   ],
-  "version": 15
+  "version": 16
 }
