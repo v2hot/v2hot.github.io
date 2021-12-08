@@ -1,38 +1,16 @@
 {
-  "fetchTime": 1638897244972,
+  "fetchTime": 1638921006076,
   "posts": [
     {
-      "title": "Python 异步有什么办法实现类似 Linux 的 tail -f 的功能吗？",
-      "url": "/t/820680",
-      "author": "LeeReamond",
-      "node_url": "/go/python",
-      "node_name": "Python",
-      "replies": 15,
-      "avatar_url": "https://cdn.v2ex.com/avatar/f481/5f03/469082_large.png?m=1621264130",
-      "last_touched": "2021-12-08 01:08:11 +08:00",
-      "last_reply_by": "ClericPy"
-    },
-    {
-      "title": "Cloudflare Warp 真心好用啊",
-      "url": "/t/820693",
-      "author": "v2000000001ex",
-      "node_url": "/go/google",
-      "node_name": "Google",
-      "replies": 10,
-      "avatar_url": "https://cdn.v2ex.com/gravatar/f1fcddce932d95da0c6cb37561f33de2?s=48&d=retro",
-      "last_touched": "2021-12-08 01:01:59 +08:00",
-      "last_reply_by": "HandSonic"
-    },
-    {
-      "title": "有哪些方向比较适合个人开发者来做的？",
-      "url": "/t/820593",
-      "author": "lwgo",
+      "title": "80 后程序员前辈们现在都在干嘛",
+      "url": "/t/820739",
+      "author": "jiaming1992",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 90,
-      "avatar_url": "https://cdn.v2ex.com/gravatar/0246800a5757002ea378b5d4c131e08c?s=48&d=retro",
-      "last_touched": "2021-12-08 00:20:58 +08:00",
-      "last_reply_by": "miaoge520"
+      "replies": 19,
+      "avatar_url": "https://cdn.v2ex.com/gravatar/e3e595e57e4735fe50a5afa6efc65580?s=48&d=retro",
+      "last_touched": "2021-12-08 07:27:13 +08:00",
+      "last_reply_by": "ericgui"
     },
     {
       "title": "接了个盘，这张表什么水平",
@@ -40,10 +18,21 @@
       "author": "suyuyu",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 49,
+      "replies": 53,
       "avatar_url": "https://cdn.v2ex.com/avatar/4710/9e92/275835_large.png?m=1638871367",
-      "last_touched": "2021-12-08 00:17:30 +08:00",
-      "last_reply_by": "Mutoo"
+      "last_touched": "2021-12-08 07:22:31 +08:00",
+      "last_reply_by": "jadec0der"
+    },
+    {
+      "title": "Cloudflare Warp 真心好用啊",
+      "url": "/t/820693",
+      "author": "v2000000001ex",
+      "node_url": "/go/google",
+      "node_name": "Google",
+      "replies": 15,
+      "avatar_url": "https://cdn.v2ex.com/gravatar/f1fcddce932d95da0c6cb37561f33de2?s=48&d=retro",
+      "last_touched": "2021-12-08 06:52:01 +08:00",
+      "last_reply_by": "v2000000001ex"
     },
     {
       "title": "typora 收费了，有什么好的替代产品",
@@ -51,10 +40,32 @@
       "author": "dwlovelife",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 20,
+      "replies": 25,
       "avatar_url": "https://cdn.v2ex.com/avatar/6ce6/efba/550308_large.png?m=1626070933",
-      "last_touched": "2021-12-08 00:17:10 +08:00",
-      "last_reply_by": "goushenger"
+      "last_touched": "2021-12-08 06:29:53 +08:00",
+      "last_reply_by": "zoeleeeeee"
+    },
+    {
+      "title": "MySQL 查询，能否做到当某字段为特定值时，该条件字段不起作用",
+      "url": "/t/820762",
+      "author": "lixyz",
+      "node_url": "/go/mysql",
+      "node_name": "MySQL",
+      "replies": 3,
+      "avatar_url": "https://cdn.v2ex.com/avatar/f8d9/e12f/88942_large.png?m=1419823074",
+      "last_touched": "2021-12-08 07:21:38 +08:00",
+      "last_reply_by": "aragakiyuii"
+    },
+    {
+      "title": "git CLI 设计太烂",
+      "url": "/t/820770",
+      "author": "AndyAO",
+      "node_url": "/go/programmer",
+      "node_name": "程序员",
+      "replies": 1,
+      "avatar_url": "https://cdn.v2ex.com/avatar/b85a/cd99/512121_large.png?m=1638315611",
+      "last_touched": "2021-12-08 07:22:18 +08:00",
+      "last_reply_by": "AndyAO"
     },
     {
       "title": "身为程序员的你有过接私单的经历吗？",
@@ -62,21 +73,21 @@
       "author": "yttsam",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 45,
+      "replies": 46,
       "avatar_url": "https://cdn.v2ex.com/avatar/65b3/6aa7/433064_large.png?m=1637918925",
-      "last_touched": "2021-12-08 00:04:23 +08:00",
-      "last_reply_by": "rust"
+      "last_touched": "2021-12-08 01:16:54 +08:00",
+      "last_reply_by": "ByZHkc3"
     },
     {
-      "title": "80 后程序员前辈们现在都在干嘛",
-      "url": "/t/820739",
-      "author": "jiaming1992",
+      "title": "有哪些方向比较适合个人开发者来做的？",
+      "url": "/t/820593",
+      "author": "lwgo",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 7,
-      "avatar_url": "https://cdn.v2ex.com/gravatar/e3e595e57e4735fe50a5afa6efc65580?s=48&d=retro",
-      "last_touched": "2021-12-07 23:54:42 +08:00",
-      "last_reply_by": "nsynet57"
+      "replies": 91,
+      "avatar_url": "https://cdn.v2ex.com/gravatar/0246800a5757002ea378b5d4c131e08c?s=48&d=retro",
+      "last_touched": "2021-12-08 01:14:41 +08:00",
+      "last_reply_by": "Yunen"
     },
     {
       "title": "邪恶的算法，有多少责任在程序员？",
@@ -84,10 +95,10 @@
       "author": "lagoon",
       "node_url": "/go/programmer",
       "node_name": "程序员",
-      "replies": 77,
+      "replies": 79,
       "avatar_url": "https://cdn.v2ex.com/avatar/30fa/ee41/271234_large.png?m=1637571039",
-      "last_touched": "2021-12-07 22:55:32 +08:00",
-      "last_reply_by": "berchtesgaden"
+      "last_touched": "2021-12-08 05:20:58 +08:00",
+      "last_reply_by": "qwertqwert12345"
     },
     {
       "title": "为啥 Android studio 开发的 hello world 程序都可以占用内存 100MB？",
@@ -95,10 +106,10 @@
       "author": "weixiansen574",
       "node_url": "/go/android",
       "node_name": "Android",
-      "replies": 19,
+      "replies": 20,
       "avatar_url": "https://cdn.v2ex.com/avatar/f689/4902/556883_large.png?m=1632972410",
-      "last_touched": "2021-12-07 22:45:12 +08:00",
-      "last_reply_by": "fox0001"
+      "last_touched": "2021-12-08 07:44:58 +08:00",
+      "last_reply_by": "fan123199"
     },
     {
       "title": "chrome 保存文件不显示扩展名",
@@ -112,6 +123,17 @@
       "last_reply_by": ""
     },
     {
+      "title": "mac 上 vscode 虚拟内存问题",
+      "url": "/t/820670",
+      "author": "Windy00",
+      "node_url": "/go/vscode",
+      "node_name": "Visual Studio Code",
+      "replies": 8,
+      "avatar_url": "https://cdn.v2ex.com/avatar/5102/3f34/197520_large.png?m=1571038466",
+      "last_touched": "2021-12-08 03:56:15 +08:00",
+      "last_reply_by": "LewisHorse"
+    },
+    {
       "title": "在外搬砖的程序员们，周六周日会选择怎么放松？",
       "url": "/t/820614",
       "author": "Mrzhs",
@@ -123,6 +145,17 @@
       "last_reply_by": "pcmgr456"
     },
     {
+      "title": "MySQL 大概率不会考虑 M1 MAX 芯片下的 Docker image 了吧",
+      "url": "/t/820704",
+      "author": "Insomnia",
+      "node_url": "/go/mysql",
+      "node_name": "MySQL",
+      "replies": 5,
+      "avatar_url": "https://cdn.v2ex.com/avatar/294a/8ed2/5780_large.png?m=1617752836",
+      "last_touched": "2021-12-08 07:24:07 +08:00",
+      "last_reply_by": "janxin"
+    },
+    {
       "title": "win11 一周蓝屏 5 次什么水平？",
       "url": "/t/820433",
       "author": "Features",
@@ -132,17 +165,6 @@
       "avatar_url": "https://cdn.v2ex.com/gravatar/03833e8c62b3feb7b1d819ed8e964467?s=48&d=retro",
       "last_touched": "2021-12-08 00:01:18 +08:00",
       "last_reply_by": "shenme"
-    },
-    {
-      "title": "mac 上 vscode 虚拟内存问题",
-      "url": "/t/820670",
-      "author": "Windy00",
-      "node_url": "/go/vscode",
-      "node_name": "Visual Studio Code",
-      "replies": 6,
-      "avatar_url": "https://cdn.v2ex.com/avatar/5102/3f34/197520_large.png?m=1571038466",
-      "last_touched": "2021-12-07 19:59:44 +08:00",
-      "last_reply_by": "12101111"
     },
     {
       "title": "用了一段时间的 SQLAlchemy，感受到的只有混沌和混乱",
@@ -165,17 +187,6 @@
       "avatar_url": "https://cdn.v2ex.com/avatar/f338/e452/166159_large.png?m=1610062625",
       "last_touched": "2021-12-07 19:52:32 +08:00",
       "last_reply_by": "wangyu17455"
-    },
-    {
-      "title": "MySQL 大概率不会考虑 M1 MAX 芯片下的 Docker image 了吧",
-      "url": "/t/820704",
-      "author": "Insomnia",
-      "node_url": "/go/mysql",
-      "node_name": "MySQL",
-      "replies": 4,
-      "avatar_url": "https://cdn.v2ex.com/avatar/294a/8ed2/5780_large.png?m=1617752836",
-      "last_touched": "2021-12-07 20:10:56 +08:00",
-      "last_reply_by": "Insomnia"
     },
     {
       "title": "使用多个轻量服务器作为 CDN 有人实践过吗？",
@@ -277,6 +288,17 @@
       "last_reply_by": "maxbon"
     },
     {
+      "title": "AWS 免费层级的流量大幅增加",
+      "url": "/t/820473",
+      "author": "LnTrx",
+      "node_url": "/go/aws",
+      "node_name": "Amazon Web Services",
+      "replies": 24,
+      "avatar_url": "https://cdn.v2ex.com/avatar/7b8b/71f7/450865_large.png?m=1590249670",
+      "last_touched": "2021-12-08 07:24:11 +08:00",
+      "last_reply_by": "loveminds"
+    },
+    {
       "title": "关于 mysql 连接、连接池以及 socket 的疑问",
       "url": "/t/820666",
       "author": "liu1996",
@@ -286,17 +308,6 @@
       "avatar_url": "https://cdn.v2ex.com/gravatar/3f558aa321989736fbad6e8a036f668d?s=48&d=retro",
       "last_touched": "2021-12-07 17:01:45 +08:00",
       "last_reply_by": "liprais"
-    },
-    {
-      "title": "AWS 免费层级的流量大幅增加",
-      "url": "/t/820473",
-      "author": "LnTrx",
-      "node_url": "/go/aws",
-      "node_name": "Amazon Web Services",
-      "replies": 23,
-      "avatar_url": "https://cdn.v2ex.com/avatar/7b8b/71f7/450865_large.png?m=1590249670",
-      "last_touched": "2021-12-07 16:47:11 +08:00",
-      "last_reply_by": "bianzhifu"
     },
     {
       "title": "开发手机辅助, 如何检测区域内容变化?",
@@ -420,6 +431,17 @@
       "last_reply_by": ""
     },
     {
+      "title": "NV 3070 显卡玩游戏 显卡占用始终上不去",
+      "url": "/t/820541",
+      "author": "iMiata",
+      "node_url": "/go/nvidia",
+      "node_name": "NVIDIA",
+      "replies": 63,
+      "avatar_url": "https://cdn.v2ex.com/avatar/8727/6d75/276253_large.png?m=1638844037",
+      "last_touched": "2021-12-08 06:38:32 +08:00",
+      "last_reply_by": "gateoflunar"
+    },
+    {
       "title": "Python 会走向 JIT 吗？从 PHP8 到 Guido van Rossum 入职微软",
       "url": "/t/820299",
       "author": "imes",
@@ -442,6 +464,17 @@
       "last_reply_by": "bz5314520"
     },
     {
+      "title": "群晖 Docker 镜像推荐",
+      "url": "/t/820411",
+      "author": "Hanggi",
+      "node_url": "/go/nas",
+      "node_name": "NAS",
+      "replies": 30,
+      "avatar_url": "https://cdn.v2ex.com/avatar/85f6/cdb0/156814_large.png?m=1499746915",
+      "last_touched": "2021-12-08 05:20:02 +08:00",
+      "last_reply_by": "natsukage"
+    },
+    {
       "title": "Remote Worker",
       "url": "/t/819906",
       "author": "Livid",
@@ -453,15 +486,15 @@
       "last_reply_by": "cweijan"
     },
     {
-      "title": "群晖 Docker 镜像推荐",
-      "url": "/t/820411",
-      "author": "Hanggi",
-      "node_url": "/go/nas",
-      "node_name": "NAS",
-      "replies": 29,
-      "avatar_url": "https://cdn.v2ex.com/avatar/85f6/cdb0/156814_large.png?m=1499746915",
-      "last_touched": "2021-12-07 21:25:56 +08:00",
-      "last_reply_by": "Dogtler"
+      "title": "如何从浏览器搜索栏直接复制出带中文的 URL 呢？",
+      "url": "/t/820317",
+      "author": "yanbo92",
+      "node_url": "/go/programmer",
+      "node_name": "程序员",
+      "replies": 20,
+      "avatar_url": "https://cdn.v2ex.com/avatar/5383/b7f8/531332_large.png?m=1638765082",
+      "last_touched": "2021-12-08 03:18:00 +08:00",
+      "last_reply_by": "demonlin"
     },
     {
       "title": "想问一下计算机组成原理和数据结构与算法的问题",
@@ -497,17 +530,6 @@
       "last_reply_by": "Kinnice"
     },
     {
-      "title": "NV 3070 显卡玩游戏 显卡占用始终上不去",
-      "url": "/t/820541",
-      "author": "iMiata",
-      "node_url": "/go/nvidia",
-      "node_name": "NVIDIA",
-      "replies": 61,
-      "avatar_url": "https://cdn.v2ex.com/avatar/8727/6d75/276253_large.png?m=1638844037",
-      "last_touched": "2021-12-08 01:03:41 +08:00",
-      "last_reply_by": "DesperadoJ"
-    },
-    {
       "title": "求助！甲骨文 ARM 云 端口开放不了。",
       "url": "/t/820374",
       "author": "szhhq",
@@ -528,28 +550,6 @@
       "avatar_url": "https://cdn.v2ex.com/avatar/c563/e2bd/417414_large.png?m=1635434949",
       "last_touched": "2021-12-07 15:10:16 +08:00",
       "last_reply_by": "amiwrong123"
-    },
-    {
-      "title": "如何从浏览器搜索栏直接复制出带中文的 URL 呢？",
-      "url": "/t/820317",
-      "author": "yanbo92",
-      "node_url": "/go/programmer",
-      "node_name": "程序员",
-      "replies": 19,
-      "avatar_url": "https://cdn.v2ex.com/avatar/5383/b7f8/531332_large.png?m=1638765082",
-      "last_touched": "2021-12-07 18:02:43 +08:00",
-      "last_reply_by": "Kasumi20"
-    },
-    {
-      "title": "Apifox 为啥要买 smart-doc 开源软件名称来碰瓷？",
-      "url": "/t/820300",
-      "author": "smartdoc647",
-      "node_url": "/go/programmer",
-      "node_name": "程序员",
-      "replies": 34,
-      "avatar_url": "https://cdn.v2ex.com/gravatar/7ddd2d6737bcf1329b0430983ee1d9db?s=48&d=retro",
-      "last_touched": "2021-12-07 14:39:19 +08:00",
-      "last_reply_by": "apifox"
     }
   ]
 }

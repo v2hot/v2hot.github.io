@@ -1,27 +1,27 @@
 {
-  "fetchTime": 1638921010835,
+  "fetchTime": 1638924612724,
   "posts": [
-    {
-      "title": "挖矿的意义在哪？浪费那么多电力，算力，只为了一个网络上的奖励吗？看不见摸不着的。",
-      "url": "/t/820628",
-      "author": "kiko12324",
-      "node_url": "/go/ideas",
-      "node_name": "奇思妙想",
-      "replies": 81,
-      "avatar_url": "https://cdn.v2ex.com/avatar/38a2/8fd7/551700_large.png?m=1633961458",
-      "last_touched": "2021-12-08 07:46:18 +08:00",
-      "last_reply_by": "murmur"
-    },
     {
       "title": "我们做一个新的搜索引擎, 「F Search | F 搜」, 希望能给大家除了百度和搜狗以外不同的选择 - V2EX 首发",
       "url": "/t/817678",
       "author": "tmacLiu9527",
       "node_url": "/go/create",
       "node_name": "分享创造",
-      "replies": 242,
+      "replies": 243,
       "avatar_url": "https://cdn.v2ex.com/gravatar/d1d1493d133cf606866295114617b040?s=48&d=retro",
-      "last_touched": "2021-12-08 06:30:14 +08:00",
-      "last_reply_by": "lishuolin"
+      "last_touched": "2021-12-08 08:25:29 +08:00",
+      "last_reply_by": "Geo200"
+    },
+    {
+      "title": "挖矿的意义在哪？浪费那么多电力，算力，只为了一个网络上的奖励吗？看不见摸不着的。",
+      "url": "/t/820628",
+      "author": "kiko12324",
+      "node_url": "/go/ideas",
+      "node_name": "奇思妙想",
+      "replies": 83,
+      "avatar_url": "https://cdn.v2ex.com/avatar/38a2/8fd7/551700_large.png?m=1633961458",
+      "last_touched": "2021-12-08 08:23:09 +08:00",
+      "last_reply_by": "murmur"
     },
     {
       "title": "新出炉的油猴脚本，按 '/' 键盘聚焦并滚动到搜索框处",
@@ -51,10 +51,10 @@
       "author": "Casbin",
       "node_url": "/go/create",
       "node_name": "分享创造",
-      "replies": 53,
+      "replies": 54,
       "avatar_url": "https://cdn.v2ex.com/avatar/a57e/91d7/541867_large.png?m=1617972501",
-      "last_touched": "2021-12-07 22:33:30 +08:00",
-      "last_reply_by": "duyaofei"
+      "last_touched": "2021-12-08 08:34:07 +08:00",
+      "last_reply_by": "Casbin"
     },
     {
       "title": "分享一个静态页面 Demo，实现提取 zip 视频播放",
@@ -429,6 +429,116 @@
       "avatar_url": "https://cdn.v2ex.com/avatar/3f69/066e/351329_large.png?m=1559045128",
       "last_touched": "2021-12-03 17:20:32 +08:00",
       "last_reply_by": "alienjunx"
+    },
+    {
+      "title": "gof: 一个用 Go 语言来写 extension 进行自由定制的文件/文件夹处理器",
+      "url": "/t/819199",
+      "author": "SuperMild",
+      "node_url": "/go/create",
+      "node_name": "分享创造",
+      "replies": 1,
+      "avatar_url": "https://cdn.v2ex.com/gravatar/5af94fe81750e6f9894d7fc2301219d1?s=48&d=retro",
+      "last_touched": "2021-12-01 16:20:04 +08:00",
+      "last_reply_by": "rekulas"
+    },
+    {
+      "title": "差点儿夭折的 pp8.0 终于上线了，非常感谢大家的支持！",
+      "url": "/t/818980",
+      "author": "bshu",
+      "node_url": "/go/create",
+      "node_name": "分享创造",
+      "replies": 29,
+      "avatar_url": "https://cdn.v2ex.com/avatar/1a94/4d03/23719_large.png?m=1342755878",
+      "last_touched": "2021-12-06 10:12:47 +08:00",
+      "last_reply_by": "bshu"
+    },
+    {
+      "title": "三年过去了，那个叫 uTools 的怎么样了",
+      "url": "/t/816446",
+      "author": "uTools",
+      "node_url": "/go/create",
+      "node_name": "分享创造",
+      "replies": 196,
+      "avatar_url": "https://cdn.v2ex.com/avatar/c55f/145f/348327_large.png?m=1600139960",
+      "last_touched": "2021-12-06 17:38:24 +08:00",
+      "last_reply_by": "istef"
+    },
+    {
+      "title": "一分钟自建 zerotier-planet 行星服务器",
+      "url": "/t/818702",
+      "author": "Acoffice",
+      "node_url": "/go/create",
+      "node_name": "分享创造",
+      "replies": 9,
+      "avatar_url": "https://cdn.v2ex.com/avatar/6720/36b6/219983_large.png?m=1571817460",
+      "last_touched": "2021-12-02 21:55:30 +08:00",
+      "last_reply_by": "lifehard"
+    },
+    {
+      "title": "撸了个自动给日语学习资料添加字幕的小工具",
+      "url": "/t/818512",
+      "author": "cond0r",
+      "node_url": "/go/create",
+      "node_name": "分享创造",
+      "replies": 11,
+      "avatar_url": "https://cdn.v2ex.com/avatar/5d65/2dcb/85575_large.png?m=1635049557",
+      "last_touched": "2021-12-02 10:49:17 +08:00",
+      "last_reply_by": "Juszoe"
+    },
+    {
+      "title": "vkit，一个面向计算机视觉（特别是文档图像分析与识别方向）开发者的工具包",
+      "url": "/t/818997",
+      "author": "huntzhan",
+      "node_url": "/go/create",
+      "node_name": "分享创造",
+      "replies": 5,
+      "avatar_url": "https://cdn.v2ex.com/avatar/2252/2670/168753_large.png?m=1638595601",
+      "last_touched": "2021-11-30 21:42:05 +08:00",
+      "last_reply_by": "huntzhan"
+    },
+    {
+      "title": "做了一个 Idea 命名提示插件 - TypingCat",
+      "url": "/t/815874",
+      "author": "xiaoxing0086",
+      "node_url": "/go/create",
+      "node_name": "分享创造",
+      "replies": 33,
+      "avatar_url": "https://cdn.v2ex.com/avatar/373a/e514/310526_large.png?m=1638100373",
+      "last_touched": "2021-12-06 16:18:24 +08:00",
+      "last_reply_by": "sumonian"
+    },
+    {
+      "title": "2021 年 12 月定投基金应该选择啥",
+      "url": "/t/817702",
+      "author": "huage2580",
+      "node_url": "/go/ideas",
+      "node_name": "奇思妙想",
+      "replies": 51,
+      "avatar_url": "https://cdn.v2ex.com/avatar/29d9/5ef3/279160_large.png?m=1637143828",
+      "last_touched": "2021-12-02 20:24:10 +08:00",
+      "last_reply_by": "mswh"
+    },
+    {
+      "title": "两个多月前发布的产品收到的反馈，再次规划重新设计啦！",
+      "url": "/t/818481",
+      "author": "pagepan",
+      "node_url": "/go/create",
+      "node_name": "分享创造",
+      "replies": 11,
+      "avatar_url": "https://cdn.v2ex.com/avatar/401e/a054/549410_large.png?m=1632991586",
+      "last_touched": "2021-11-30 20:10:02 +08:00",
+      "last_reply_by": "cyberpoint"
+    },
+    {
+      "title": "Q 萌宠 Q.PET 撸了个新网站",
+      "url": "/t/818677",
+      "author": "hemingcn",
+      "node_url": "/go/create",
+      "node_name": "分享创造",
+      "replies": 11,
+      "avatar_url": "https://cdn.v2ex.com/gravatar/2bb667dde6d459e07118fd4cb18d1ee0?s=48&d=retro",
+      "last_touched": "2021-11-30 17:14:40 +08:00",
+      "last_reply_by": "cheung"
     }
   ]
 }
