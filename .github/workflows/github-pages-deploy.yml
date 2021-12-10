@@ -1,0 +1,43 @@
+name: Build and Deploy
+on:
+  push:
+    branches:
+      - data
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout site-gen 🛎️
+        uses: actions/checkout@v2.3.1
+        with:
+          persist-credentials: false
+          token: ${{ secrets.GH_PAT }} # `GH_PAT` is a secret that contains your PAT
+          repository: v2hot/v2hot-site-gen
+
+      - name: Checkout data 🛎️
+        uses: actions/checkout@v2.3.1
+        with:
+          persist-credentials: false
+          ref: data # Branch
+          path: data # Directory
+
+      - name: Install and Build 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
+        run: |
+          yarn install
+          node lib/index.js
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.5
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: public # The folder the action should deploy.
+          single-commit: true
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.5
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: public # The folder the action should deploy.
+          single-commit: true
+          repository-name: PipecraftNet/v2hot.github.io
+          token: ${{ secrets.GH_PAT }} # `GH_PAT` is a secret that contains your PAT
