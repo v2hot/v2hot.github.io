@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "v2ex-hot"
+  },
+  "targets": {
+    "v2ex-hot": {
+      "hosting": {
+        "v2exhot": [
+          "v2exhot"
+        ],
+        "v2ex-hot": [
+          "v2ex-hot"
+        ]
+      }
+    }
+  }
+}

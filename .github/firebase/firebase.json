@@ -1,0 +1,26 @@
+{
+  "hosting": [
+    {
+      "target": "v2exhot",
+      "public": "public",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**",
+        "**/.git/**",
+        ".gitignore"
+      ]
+    },
+    {
+      "target": "v2ex-hot",
+      "public": "public",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**",
+        "**/.git/**",
+        ".gitignore"
+      ]
+    }
+  ]
+}
