@@ -24,6 +24,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
           yarn install
+          echo "STATIC_PATH=https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@${{ secrets.STATIC_VERSION }}/static" > .env
           node lib/index.js
           cp data/.github/firebase/.firebaserc ./
           cp data/.github/firebase/firebase.json ./
