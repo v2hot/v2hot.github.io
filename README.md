@@ -11,10 +11,8 @@
 - https://v2hot.github.io/
 - https://v2hot.netlify.app/
 - https://v2hot.pipecraft.net/
-- https://v2hot.vercel.app/
-- https://v2hot.now.sh/
-- https://v2exhot.web.app/
 - https://v2exhot.vercel.app/
+- https://v2exhot.web.app/
 - https://v2exhot.now.sh/
 
 ## API
