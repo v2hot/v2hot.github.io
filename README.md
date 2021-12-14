@@ -22,7 +22,7 @@
 
 ### 今日热议主题
 
-https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/v2ex-api/hot-topics.json
+- https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/v2ex-api/hot-topics.json
 
 ### 每日最热主题
 
@@ -33,7 +33,7 @@ https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/v2ex-api/hot-topics.json
 - https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/hot/2021/2021-12-07.json
 - https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/tech/2021/2021-12-07.json
 
-### 每日新上榜主题
+### 最新上榜主题
 
 格式：`https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/{{tab}}/newest.json`
 
@@ -41,6 +41,15 @@ https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/v2ex-api/hot-topics.json
 
 - https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/hot/newest.json
 - https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/tech/newest.json
+
+### 七天最热主题
+
+格式：`https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/{{tab}}/hottest-7.json`
+
+举例：
+
+- https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/hot/hottest-7.json
+- https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/tech/hottest-7.json
 
 ## 反馈
 
