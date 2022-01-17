@@ -9,11 +9,13 @@
 可以通过下列域名访问，选择访问最快的域名。
 
 - https://v2hot.github.io/
-- https://v2hot.netlify.app/
 - https://v2hot.pipecraft.net/
-- https://v2exhot.vercel.app/
+- https://v2hot.now.sh/
+- https://v2hot.vercel.app/
+- https://v2hot.netlify.app/
 - https://v2exhot.web.app/
 - https://v2exhot.now.sh/
+- https://v2exhot.vercel.app/
 
 ## API
 
@@ -42,13 +44,17 @@
 - https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/hot/newest.json
 - https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/tech/newest.json
 
-### 七天最热主题
+### 三天最热主题 / 七天最热主题 / 30 天最热主题
 
-格式：`https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/{{tab}}/hottest-7.json`
+格式：
+
+- `https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/{{tab}}/hottest-3.json`
+- `https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/{{tab}}/hottest-7.json`
+- `https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/{{tab}}/hottest-30.json`
 
 举例：
 
-- https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/hot/hottest-7.json
+- https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/hot/hottest-3.json
 - https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/tech/hottest-7.json
 
 ## 反馈
